@@ -22,5 +22,4 @@ This is a simple Java desktop application that allows IT support staff to manage
 1. Open the project in VS Code.
 2. Compile the program:
 
-```bash
-javac src/HelpdeskTicketSystem.java
+
